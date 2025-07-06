@@ -1,5 +1,6 @@
-<!-- Profile README for honey0403 -->
 <div align="center">
+
+<img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width="180" height="180" alt="Developer GIF" />
 
 # Hey there, I'm Honey 👋
 ### 🚀 Full Stack Dev | 🔐 Web3 Builder | 🧠 AI Explorer | 🥷 Hackathon Champion  
@@ -25,6 +26,18 @@
 
 🚀 Currently building a **Smart BMS System using ML + Raspberry Pi 5**  
 📌 Passionate about building **secure, scalable, and impactful tech**
+
+---
+
+## 💼 Experience
+
+- **Web/ML Developer Intern**  
+  *Zebpay* | May 2024 – Present  
+  - Developed and deployed machine learning models for fraud detection in crypto transactions.
+  - Built scalable backend APIs for Web3 integrations and user analytics.
+  - Enhanced platform security and optimized smart contract workflows.
+
+
 
 ---
 
